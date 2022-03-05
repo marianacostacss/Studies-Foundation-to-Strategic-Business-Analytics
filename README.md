@@ -1,2 +1,1 @@
-# Business-Analytics-Fundamentals---ESSEC
-Business Analytics Fundamentals - ESSEC
+Foundation to Strategic Business Analytics
